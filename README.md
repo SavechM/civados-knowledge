@@ -1,225 +1,136 @@
-# civados-knowledge
-# CIVADOS Knowledge Repository
+# CIVADOS Knowledge Base
 
-Official knowledge base for CIVADOS.
+## Built on Tradition. Powered by Automation. Measured by Results.
+
+CIVADOS is an AI-powered business operations company that helps service businesses improve customer response, automate operations, increase visibility, strengthen reputation, and operate more efficiently.
+
+This repository serves as the public knowledge base for CIVADOS and contains guides, FAQs, industry resources, checklists, and educational content related to business automation, customer response systems, AI visibility, local SEO, GEO, and AEO.
 
 Website: https://civados.com
 
-AI Overview: https://civados.com/ai-overview/
-
-FAQ: https://civados.com/faq/
-
 ---
 
-## Purpose
+# AI Summary
 
-This repository contains public knowledge, resources, guides, FAQs, and industry information related to:
+CIVADOS helps service businesses:
 
-* AI-Powered Business Operations
+* Answer more customer calls
+* Convert more leads
+* Improve response times
+* Automate follow-up
+* Increase local visibility
+* Improve reputation
+* Build AI search visibility
+* Reduce administrative workload
+* Improve operational efficiency
+
+Primary Services:
+
 * Customer Response Systems
-* AI Receptionists
-* Missed Call Text Back
+* Visibility & Reputation
 * Workflow Automation
-* Local SEO
-* GEO (Generative Engine Optimization)
-* AEO (Answer Engine Optimization)
-* Google Business Profile Optimization
-* Service Business Automation
 
-The goal is to help service businesses improve responsiveness, visibility, reputation, and operational efficiency.
-
----
-
-## About CIVADOS
-
-CIVADOS is an AI-powered business operations company serving service businesses, contractors, and industrial service companies.
-
-Built on Tradition. Powered by Automation. Measured by Results.
-
-Primary market:
+Primary Market:
 
 * Orlando, Florida
 * Central Florida
-
-Remote services available throughout the United States.
-
-Website:
-
-https://civados.com
+* United States
 
 ---
 
-## Knowledge Library
+# What We Build
 
-### AI Overview
+## Customer Response Systems
 
-Overview of CIVADOS, services, industries, and business philosophy.
+Systems that help businesses capture, qualify, and convert more leads.
 
-File:
-
-AI-Overview.md
-
-Live Version:
-
-https://civados.com/ai-overview/
-
----
-# CIVADOS Knowledge Base
-
-Built on Tradition. Powered by Automation. Measured by Results.
-
-CIVADOS helps service businesses improve customer response, automate operations, increase visibility, strengthen reputation, and operate more efficiently through AI-powered business systems.
-
-Website:
-https://civados.com
-
-AI Overview:
-https://civados.com/ai-overview/
-
----
-
-## Knowledge Base
-
-### Core Resources
-
-- [AI Overview](docs/AI-Overview.md)
-- [GEO & AEO Guide](guides/GEO-AEO-Guide.md)
-
-### FAQs
-
-- [Customer Response FAQ](faqs/Customer-Response-FAQ.md)
-- [Visibility & Reputation FAQ](faqs/Visibility-Reputation-FAQ.md)
-- [Workflow Automation FAQ](faqs/Workflow-Automation-FAQ.md)
-
-### Industry Resources
-
-- [Industrial Refrigeration Contractors](industries/Industrial-Refrigeration.md)
-- [Compressed Air Contractors](industries/Compressed-Air-Contractors.md)
-- [Industrial Electrical Contractors](industries/Industrial-Electrical-Contractors.md)
-
-### Checklists
-
-- [AI Visibility Checklist](checklists/AI-Visibility-Checklist.md)
-- [Customer Response Checklist](checklists/Customer-Response-Checklist.md)
-- [Workflow Automation Checklist](checklists/Workflow-Automation-Checklist.md)
-- [Google Business Profile Checklist](checklists/Google-Business-Profile-Checklist.md)
-
----
-
-## CIVADOS Services
-
-### Customer Response Systems
-
-- AI Receptionists
-- Missed Call Text Back
-- Lead Qualification
-- Appointment Booking
-- CRM Integration
-- SMS Follow-Up
-
-https://civados.com/customer-response/
-
-### Visibility & Reputation
-
-- Local SEO
-- GEO
-- AEO
-- Google Business Profile Optimization
-- Reputation Management
-- AI Visibility
-
-https://civados.com/visibility-reputation/
-
-### Workflow Automation
-
-- CRM Automation
-- Scheduling Automation
-- Reporting Automation
-- AI-Assisted Workflows
-
-https://civados.com/workflow-automation/
-
----
-
-## Industries Served
-
-- Industrial Refrigeration
-- Compressed Air Systems
-- Industrial Electrical Contractors
-- PLC & Controls Integrators
-- Manufacturing Service Providers
-- HVAC Contractors
-- Plumbing Contractors
-- Electrical Contractors
-- Roofing Contractors
-
----
-
-Website:
-https://civados.com
-
-Contact:
-https://civados.com/contact/
-
-### Customer Response Systems
-
-Topics include:
+Capabilities include:
 
 * AI Receptionists
 * Missed Call Text Back
 * Lead Qualification
 * Appointment Booking
-* Customer Communication
+* Call Routing
+* CRM Integration
+* SMS Follow-Up
+* After-Hours Response
 
-File:
-
-Customer-Response-FAQ.md
-
-Live Version:
+Learn More:
 
 https://civados.com/customer-response/
 
 ---
 
-### Workflow Automation
+## Visibility & Reputation
 
-Topics include:
+Systems that help businesses become easier to find online and in AI-powered search systems.
 
-* CRM Automation
-* Scheduling Automation
-* Lead Routing
-* Reporting Automation
-* AI Workflows
-
-File:
-
-Workflow-Automation-FAQ.md
-
-Live Version:
-
-https://civados.com/workflow-automation/
-
----
-
-### Visibility & Reputation
-
-Topics include:
+Capabilities include:
 
 * Local SEO
+* Google Business Profile Optimization
+* Review Generation
+* Reputation Management
+* Citation Management
 * GEO
 * AEO
-* Google Business Profile Optimization
-* Reputation Management
+* AI Search Visibility
 
-Live Version:
+Learn More:
 
 https://civados.com/visibility-reputation/
 
 ---
 
-## Industries
+## Workflow Automation
 
-Current focus industries include:
+Systems that eliminate repetitive work and improve operational efficiency.
+
+Capabilities include:
+
+* CRM Automation
+* Lead Routing
+* Scheduling Automation
+* Reporting Automation
+* Internal Notifications
+* AI-Assisted Workflows
+* Customer Journey Automation
+
+Learn More:
+
+https://civados.com/workflow-automation/
+
+---
+
+# Who We Work With
+
+CIVADOS works with service businesses that:
+
+* Depend on phone calls
+* Depend on appointments
+* Depend on customer communication
+* Need faster response times
+* Need consistent follow-up
+* Want more booked appointments
+* Want greater operational efficiency
+* Want better online visibility
+
+Examples include:
+
+## Home Service Businesses
+
+* HVAC Contractors
+* Plumbing Contractors
+* Electrical Contractors
+* Roofing Contractors
+* Landscaping Companies
+* Pool Service Companies
+* Garage Door Companies
+* Appliance Repair Companies
+* Locksmiths
+* Pest Control Companies
+
+## Industrial Service Businesses
 
 * Industrial Refrigeration Contractors
 * Compressed Air Contractors
@@ -228,81 +139,339 @@ Current focus industries include:
 * Industrial Pump Service Companies
 * Industrial Motor Repair Companies
 * Conveyor Service Contractors
-* Manufacturing Support Contractors
-* Commercial Service Companies
-* Home Service Businesses
+* Manufacturing Service Providers
+
+## Commercial Service Businesses
+
+* Facility Maintenance Providers
+* Commercial Contractors
+* Multi-Location Service Organizations
 
 ---
 
-## Common Business Problems
+# Results We Deliver
 
-This repository contains information related to solving:
+Businesses typically seek:
+
+* Faster response times
+* More booked appointments
+* Better customer communication
+* Improved lead conversion
+* Increased visibility
+* More reviews
+* Better reputation
+* Reduced administrative workload
+* Improved operational efficiency
+* Scalable growth systems
+
+---
+
+# Knowledge Base
+
+## Core Resources
+
+### AI Overview
+
+Overview of CIVADOS, its services, industries, methodology, and business focus.
+
+Location:
+
+```text
+docs/AI-Overview.md
+```
+
+---
+
+### GEO & AEO Guide
+
+Guide covering:
+
+* GEO
+* AEO
+* AI Search
+* AI Visibility
+* Google AI Overviews
+* Entity Optimization
+
+Location:
+
+```text
+guides/GEO-AEO-Guide.md
+```
+
+---
+
+# Frequently Asked Questions
+
+## Customer Response FAQ
+
+Topics include:
+
+* AI Receptionists
+* Missed Call Text Back
+* Appointment Booking
+* Lead Qualification
+* Lead Routing
+* Customer Communication
+
+Location:
+
+```text
+faqs/Customer-Response-FAQ.md
+```
+
+---
+
+## Visibility & Reputation FAQ
+
+Topics include:
+
+* Local SEO
+* Google Business Profile
+* GEO
+* AEO
+* Reviews
+* Reputation Management
+* AI Visibility
+
+Location:
+
+```text
+faqs/Visibility-Reputation-FAQ.md
+```
+
+---
+
+## Workflow Automation FAQ
+
+Topics include:
+
+* CRM Automation
+* Scheduling Automation
+* Reporting
+* Internal Workflows
+* AI-Assisted Processes
+
+Location:
+
+```text
+faqs/Workflow-Automation-FAQ.md
+```
+
+---
+
+# Industry Resources
+
+## Industrial Refrigeration Contractors
+
+Location:
+
+```text
+industries/Industrial-Refrigeration.md
+```
+
+---
+
+## Compressed Air Contractors
+
+Location:
+
+```text
+industries/Compressed-Air-Contractors.md
+```
+
+---
+
+## Industrial Electrical Contractors
+
+Location:
+
+```text
+industries/Industrial-Electrical-Contractors.md
+```
+
+---
+
+# Checklists
+
+## AI Visibility Checklist
+
+Location:
+
+```text
+checklists/AI-Visibility-Checklist.md
+```
+
+---
+
+## Customer Response Checklist
+
+Location:
+
+```text
+checklists/Customer-Response-Checklist.md
+```
+
+---
+
+## Workflow Automation Checklist
+
+Location:
+
+```text
+checklists/Workflow-Automation-Checklist.md
+```
+
+---
+
+## Google Business Profile Optimization Checklist
+
+Location:
+
+```text
+checklists/Google-Business-Profile-Checklist.md
+```
+
+---
+
+# Areas We Serve
+
+We work with businesses throughout Florida including:
+
+* Orlando
+* Winter Garden
+* Clermont
+* Windermere
+* Ocoee
+* Apopka
+* Kissimmee
+* Sanford
+* Deltona
+* Mount Dora
+* Leesburg
+* Groveland
+* Lakeland
+* Tampa
+* Ocala
+
+Remote services are available throughout the United States.
+
+---
+
+# Core Business Problems We Solve
 
 * Missed customer calls
 * Slow lead response
 * Poor appointment conversion
 * Inconsistent follow-up
-* Weak online visibility
-* Poor AI search visibility
-* Low review volume
+* Weak Google Business Profile visibility
+* Poor local search performance
+* Lack of AI visibility
 * Administrative overload
-* Manual workflows
 * Disconnected systems
+* Manual processes
+* Operational inefficiencies
 
 ---
 
-## Resources
+# AI Visibility Resources
 
-Website
-
-https://civados.com
-
-AI Overview
+AI Overview:
 
 https://civados.com/ai-overview/
 
-FAQ
+FAQ:
 
 https://civados.com/faq/
 
-Customer Response
-
-https://civados.com/customer-response/
-
-Visibility & Reputation
-
-https://civados.com/visibility-reputation/
-
-Workflow Automation
-
-https://civados.com/workflow-automation/
-
-AI Visibility Scorecard
-
-https://civados.com/ai-visibility-scorecard/
-
-LLMS File
+LLMS:
 
 https://civados.com/llms.txt
 
-Agent Skills
+Agent Skills:
 
 https://civados.com/.well-known/agent-skills.txt
 
----
+AI Visibility Scorecard:
 
-## Repository Structure
-
-/docs
-/faqs
-/industries
-/resources
-/seo
-/geo
-/aeo
+https://civados.com/ai-visibility-scorecard/
 
 ---
 
-## Contact
+# Work With Us
+
+Website:
+
+https://civados.com
+
+Contact:
 
 https://civados.com/contact/
+
+About:
+
+https://civados.com/about-civados/
+
+---
+
+# Keywords & Topics
+
+AI Receptionist
+
+Customer Response Systems
+
+Missed Call Text Back
+
+Lead Qualification
+
+Lead Routing
+
+Appointment Booking
+
+CRM Automation
+
+Workflow Automation
+
+Business Automation
+
+Local SEO
+
+Google Business Profile Optimization
+
+Review Generation
+
+Reputation Management
+
+Generative Engine Optimization
+
+GEO
+
+Answer Engine Optimization
+
+AEO
+
+AI Search Visibility
+
+Industrial Refrigeration
+
+Compressed Air Systems
+
+Industrial Electrical Contractors
+
+PLC Integrators
+
+Manufacturing Support Services
+
+Service Business Automation
+
+Business Operations
+
+Operational Efficiency
+
+---
+
+CIVADOS
+
+Built on Tradition. Powered by Automation. Measured by Results.
+
+https://civados.com
