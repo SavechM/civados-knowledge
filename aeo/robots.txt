@@ -1,0 +1,229 @@
+# CIVADOS robots.txt
+# https://civados.com/
+# Last updated: 2026-06
+# Strategy: Allow legitimate search and AI crawlers for SEO/GEO/AEO visibility.
+# Security-sensitive paths are handled by Cloudflare WAF, not robots.txt.
+
+# AI-readable files:
+# https://civados.com/llms.txt
+# https://civados.com/.well-known/agent-skills.txt
+
+# ================================================
+# GLOBAL RULES
+# ================================================
+User-agent: *
+Allow: /
+Allow: /llms.txt
+Allow: /.well-known/agent-skills.txt
+Allow: /sitemap.xml
+Allow: /sitemap_index.xml
+Allow: /answers/
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /wp-json/wp/v2/users/
+Disallow: /?author=
+Disallow: /*?author=
+Disallow: /search/
+Disallow: /*?s=
+Disallow: /results/
+
+# ================================================
+# OPENAI / CHATGPT
+# ================================================
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# ================================================
+# ANTHROPIC / CLAUDE
+# ================================================
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# ================================================
+# GOOGLE SEARCH + GOOGLE AI
+# ================================================
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: Google-CloudVertexBot
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+# ================================================
+# BING / MICROSOFT / COPILOT
+# ================================================
+User-agent: bingbot
+Allow: /
+
+User-agent: MicrosoftPreview
+Allow: /
+
+# ================================================
+# PERPLEXITY
+# ================================================
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# ================================================
+# APPLE
+# ================================================
+User-agent: Applebot
+Allow: /
+
+# ================================================
+# XAI / GROK
+# ================================================
+User-agent: xAI-SearchBot
+Allow: /
+
+# ================================================
+# YOU.COM
+# ================================================
+User-agent: YouBot
+Allow: /
+
+# ================================================
+# IASK.AI
+# ================================================
+User-agent: iaskspider
+Allow: /
+
+# ================================================
+# COHERE AI
+# ================================================
+User-agent: cohere-ai
+Allow: /
+
+# ================================================
+# AI2 / ALLEN INSTITUTE
+# ================================================
+User-agent: AI2Bot
+Allow: /
+
+# ================================================
+# COMMON CRAWL
+# ================================================
+User-agent: CCBot
+Allow: /
+
+# ================================================
+# OTHER LEGITIMATE AI / SEARCH CRAWLERS
+# ================================================
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# ================================================
+# BLOCK — SEO INTELLIGENCE / COMPETITOR RESEARCH
+# ================================================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+# ================================================
+# SITEMAPS
+# ================================================
+Sitemap: https://civados.com/sitemap_index.xml
+Sitemap: https://civados.com/sitemap.xml
